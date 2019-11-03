@@ -1,4 +1,4 @@
 # HibitStuff
-This  constantly scans trash about to be dumped in a trash specified recycle bin and determines if it is the right trash(example "cans only")
-This can also be used to alert a person bringing prohibited items like bottles or even pets into a restricted area.
+This  constantly scans around to see if trash is about to be dumped and gives and alert about what type of trash is allowed in the bin(example "cans only")
+
 
